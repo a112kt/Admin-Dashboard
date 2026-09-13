@@ -1,36 +1,132 @@
-          This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Admin Dashboard
 
-## Getting Started
+A modern and responsive **Admin Dashboard** built with **Next.js** for managing and monitoring e-commerce platform data through a clean and intuitive interface.
 
-First, run the development server:
+## 🚀 Overview
+
+This project provides an administrative interface for managing an e-commerce platform. It is designed to provide administrators with an organized dashboard for monitoring key business information and managing platform resources.
+
+## ✨ Features
+
+* 📊 Dashboard overview and statistics
+* 🛍️ Product management
+* 🏷️ Category management
+* 📦 Order management
+* 👥 User management
+* 📈 Sales and platform statistics
+* 🎬 Reels and content management
+* 📱 Responsive design
+* 🔐 Admin authentication
+* ⚡ Fast and optimized Next.js application
+* 🎨 Modern and clean user interface
+
+## 🛠️ Technologies
+
+* **Next.js**
+* **React**
+* **TypeScript**
+* **Material UI (MUI)**
+* **Redux Toolkit**
+* **RTK Query**
+* **Tabler Icons**
+* **Recharts**
+* **JavaScript / TypeScript**
+* **Git & GitHub**
+
+  
+## 📂 Project Structure
+
+```text
+Admin-Dashboard/
+├── src/
+│   ├── API/
+│   ├── app/
+│   ├── components/
+│   ├── context/
+│   ├── features/
+│   ├── hooks/
+│   ├── libs/
+│   ├── types/
+│   └── utils/
+│
+├── public/
+├── package.json
+├── tsconfig.json
+└── README.md
+```
+
+> The project structure may evolve as new features and modules are added.
+
+## ⚙️ Getting Started
+
+### Prerequisites
+
+Make sure you have installed:
+
+* Node.js
+* npm
+
+### Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/a112kt/Admin-Dashboard.git
+```
+
+Navigate to the project:
+
+```bash
+cd Admin-Dashboard
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+### Run the Development Server
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open your browser and visit:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```text
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🎥 Demo Video
 
-## Learn More
+Watch the project demonstration:
 
-To learn more about Next.js, take a look at the following resources:
+[▶️ View Admin Dashboard Demo](https://drive.google.com/file/d/1Tx9wuL5o9GYRHNYpco9tmKZ3pPMKFz1t/view?usp=sharing)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📚 Documentation
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+For detailed project documentation, architecture, features, and implementation details:
 
-## Deploy on Vercel
+[📖 View Project Documentation](https://drive.google.com/file/d/11bF8ngeekSl5P0lrwrTuwACEBlqXDH1B/view?usp=sharing)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🔗 Project Links
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+* **GitHub Repository:** https://github.com/a112kt/Admin-Dashboard
+* **Demo Video:** https://drive.google.com/file/d/1Tx9wuL5o9GYRHNYpco9tmKZ3pPMKFz1t/view?usp=sharing
+* **Documentation:** https://drive.google.com/file/d/11bF8ngeekSl5P0lrwrTuwACEBlqXDH1B/view?usp=sharing
+
+## 📌 Notes
+
+This project was developed as an administrative dashboard for an e-commerce platform and focuses on providing a structured and user-friendly experience for managing platform operations.
+
+## 👩‍💻 Author
+
+**Ashrakat Raafat Elabd**
+
+* GitHub: https://github.com/a112kt
+* LinkedIn: https://linkedin.com/in/ashrakat-raafat-3964842a4/
+
+---
+
+⭐ If you find this project useful, feel free to star the repository.
