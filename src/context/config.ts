@@ -1,0 +1,19 @@
+const config = {
+  activeDir: "ltr", // This can be ltr or rtl
+  activeMode: "light", // This can be light or dark
+  activeTheme: "ALLUVO_THEME", // BLUE_THEME, GREEN_THEME,YELLOW_THEME , VIOLET_THEME, BLUE_THEME,TEAl_THEME,LAVENDER_THEME
+  activeLayout: "vertical", // This can be vertical or horizontal
+  isLayout: "boxed", // This can be full or boxed
+  isSidebarHover: false,
+  isCollapse: "full-sidebar",
+  isLanguage: "en",
+  isCardShadow: true,
+  isMobileSidebar: false,
+  isHorizontal: false,
+  isBorderRadius: 12,
+  sidebarWidth: 300,
+  miniSidebarWidth: 87,
+  topbarHeight: 70,
+};
+
+export default config;
